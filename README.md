@@ -1,7 +1,7 @@
 # 📌 Meu Primeiro Projeto no GitHub
 
 ## 🎯 Objetivo
-Aprender a criar um repositório e usar o GitHub como portfólio durante o curso de **Análise e Desenvolvimento de Sistemas**.  
+Aprender a criar um repositório e usar o GitHub como portfólio para a disciplina de **Design Profissional**.  
 
 ## 🚀 Tecnologias
 - GitHub  
